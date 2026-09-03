@@ -92,22 +92,6 @@ The purpose of this website is to create a professional online presence for Ashi
 **Live Website:**
 https://www.ashishsharmapoeticsaga.com/
 
-## Screenshots
-
-### Home Page
-
-![Ashish Sharma Poetic Saga - Home Page](assets/home.png)
-
-### Awards & Recognitions
-
-![Awards and Recognitions](assets/awards.png)
-
-### Gallery
-
-![Poetic Saga Gallery](assets/gallery.png)
-
-> **Note:** Update the image paths above according to the actual names and folders of your uploaded screenshot files.
-
 ## Project Structure
 
 ```text
